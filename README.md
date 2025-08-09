@@ -35,7 +35,7 @@ This project was built using a variety of modern web technologies and libraries:
 *   **Interactivity**:
     *   [Typed.js](https://github.com/mattboldt/typed.js) - for the hero section typing animation.
     *   [Chart.js](https://www.chartjs.org/) - for the skills radar chart.
-*   **Contact Form**: [EmailJS](https://www.emailjs.com/) - for client-side email sending.
+*   **Contact Form**: [EmailJS](https://formspree.io/) - for client-side email sending.
 *   **Icons**: [Font Awesome](https://fontawesome.com/)
 
 ---
