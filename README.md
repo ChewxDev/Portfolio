@@ -4,7 +4,7 @@
 
 This is the official repository for the personal portfolio website of Njoku Nicholas C., a certified Workflow Specialist and Project Manager. The site is designed to showcase my skills, professional experience, and notable projects in a clean, modern, and interactive way.
 
-**Visit the live site:** https://cute-otter-fd33fa.netlify.app/
+**Visit the live site:** https://chwx.netlify.app/
 
 ---
 
